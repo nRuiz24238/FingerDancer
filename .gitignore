@@ -3,3 +3,4 @@
 .venv/
 dist/
 node_modules/
+*.tmp
